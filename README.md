@@ -1,8 +1,7 @@
 # Study2Do
 
 A simple todo list app for students
-
-       ![STUDY2DO](https://github.com/5AF1/Study2Do/blob/main/images/sample1.PNG)
+![](https://github.com/5AF1/Study2Do/blob/main/images/sample1.PNG)
     
      UI: Inspired by Windows 10 neon theme
     
